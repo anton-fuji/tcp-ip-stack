@@ -1,0 +1,10 @@
+[package]
+name = "tcpip-demo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+pnet = "0.34"
+pnet_macros_support = "0.34"
+pnet_packet = "0.34"
+rand = "0.8"
